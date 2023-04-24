@@ -15,7 +15,7 @@
     - eval_testset
     - SearchCV
     - Model_performance_bar
-    all instruction to use code has been commented inside function
+ all instruction to use code has been commented inside function
 
 4. notebook.ipynb: Contain all content below
 - Exploratory data analysis (EDA).
