@@ -15,6 +15,7 @@
     - eval_testset
     - SearchCV
     - Model_performance_bar
+
 *All instruction to use code has been commented inside function
 
 4. notebook.ipynb: Contain all content below
