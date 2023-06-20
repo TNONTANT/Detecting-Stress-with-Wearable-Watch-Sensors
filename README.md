@@ -7,7 +7,7 @@
 - run merge.py to get all signal merged together -> deliverable: single csv file contain all signal combined.
 - run label.py to label merged data -> deliverable: single csv file contain all signal combined and labeled stress column.
 
-3. function.py 
+3. `function.py` 
 - Contains function below to be use in feature extraction, Model training and evaluation.
     - stat_feature
     - feature_extraction
@@ -18,7 +18,7 @@
 
 *All instruction to use code has been commented inside function
 
-4. notebook.ipynb: Contain all content below
+4. `notebook.ipynb`: Contain all content below
 - Exploratory data analysis (EDA).
 - Feature extraction implementation.
 - Model train and test on original training set and SMOTE training set
