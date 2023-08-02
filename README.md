@@ -1,8 +1,8 @@
 # FOLLOW INSTRUCTION BELOW TO GET THE RESULT AS REPORT
 
-## Please find my report in `report.pdf` to get all work result
+## Please find my report in `report.pdf`
 
-## 3.1. Re-run experiments
+## Re-run experiments
 This section outlines instructions for re-runing the experiment.
 
 Install the needed third parties packages:
