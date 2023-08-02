@@ -5,7 +5,7 @@
 ## 3.1. Re-run experiments
 This section outlines instructions for re-runing the experiment.
 
-2. Install the needed third parties packages:
+Install the needed third parties packages:
 ```shell
 pip install -r requirements.txt
 ```
