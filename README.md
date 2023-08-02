@@ -2,6 +2,14 @@
 
 ## Please find my report in `report.pdf` to get all work result
 
+## 3.1. Re-run experiments
+This section outlines instructions for re-runing the experiment.
+
+2. Install the needed third parties packages:
+```shell
+pip install -r requirements.txt
+```
+
 1. Download raw dataset from this link: https://datadryad.org/stash/dataset/doi:10.5061/dryad.5hqbzkh6f
 
 2. To Pre-processing the raw signal go to pre-processing directory and follow these step.
